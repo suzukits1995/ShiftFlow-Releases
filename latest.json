@@ -1,7 +1,7 @@
 {
   "versionCode": 12,
   "versionName": "1.0.0-rc2",
-  "apkUrl": "https://github.com/suzukits1995/ShiftFlow-Releases/releases/download/untagged-b7397a67dd20462361f1/ShiftFlow-12.apk",
+  "apkUrl": "https://github.com/suzukits1995/ShiftFlow-Releases/releases/download/v1.0.0-rc2-12/ShiftFlow-12.apk",
   "sha256": "ede2f9b89b19be6e4c5ead132b91fe43371808a91bb3a2f05db71f762a58fdea",
   "releaseNotes": "Πρώτη έκδοση ShiftFlow RC2 με μόνιμη υπογραφή. Περιλαμβάνει ημερολόγιο βαρδιών, κύκλους, στατιστικά, αργίες, backup/restore και έλεγχο ενημερώσεων με επαλήθευση APK.",
   "publishedAt": "2026-09-26T14:05:13Z"
