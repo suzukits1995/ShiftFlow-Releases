@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "1.0.0-rc7",
-  "apkUrl": "https://github.com/suzukits1995/ShiftFlow-Releases/releases/download/v1.0.0-rc7-17/ShiftFlow-17.apk",
-  "sha256": "5c05b6462ab8969ea1dfffa89d1ae341ded7c1dd3dcbfd25930054e7cd3bdb25",
-  "releaseNotes": "RC7: Νέα εγκατάσταση χωρίς προκαθορισμένες βάρδιες. Ο χρήστης δημιουργεί τους δικούς του τύπους ημέρας και επιλέγει αν είναι εργασία, ρεπό, άδεια, ουδέτερη ή άλλος τύπος. Προστέθηκαν επιλογές εμφάνισης Σύστημα / Φωτεινό / Σκοτεινό και θέματα ShiftFlow Blue, Purple, Teal, Graphite και AMOLED. Τα υπάρχοντα δεδομένα, backups, κύκλοι και ιστορικό παραμένουν συμβατά.",
-  "publishedAt": "2026-09-28T15:29:22Z"
+  "versionCode": 18,
+  "versionName": "1.0.0-rc8",
+  "apkUrl": "https://github.com/suzukits1995/ShiftFlow-Releases/releases/download/v1.0.0-rc8-18/ShiftFlow-18.apk",
+  "sha256": "efa704e02bb19769037f4d361a9b2fe3e011f85e5cd80e4689d7b0b963d20154",
+  "releaseNotes": "RC8: Απλοποιημένη επιλογή εμφάνισης με ένα μόνο Θέμα. Διαθέσιμα presets: Σύστημα, Light, Dark, Purple Light, Purple Dark, Cyan Light, Cyan Dark και AMOLED. Περιλαμβάνεται αυτόματη μετάβαση από τις ρυθμίσεις εμφάνισης του RC7 χωρίς αλλαγές στα δεδομένα, τις βάρδιες, τους κύκλους ή τα backups.",
+  "publishedAt": "2026-09-29T16:46:22Z"
 }
