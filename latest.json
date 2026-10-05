@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.0-rc10",
-  "apkUrl": "https://github.com/suzukits1995/ShiftFlow-Releases/releases/download/v1.0.0-rc10-20/ShiftFlow-20.apk",
-  "sha256": "331b2b24299843a821fcd28d6d3de3c73e29ddad015f2e93ccdc0e48bb91514e",
-  "releaseNotes": "RC10: Προστέθηκε το πρώτο widget του ShiftFlow για γρήγορη προβολή του σημερινού και αυριανού προγράμματος από την αρχική οθόνη. Περιλαμβάνει τις τελευταίες διορθώσεις του βασικού προγράμματος και ενημερώνεται όταν αλλάζει το πρόγραμμα ή η ημερομηνία.",
-  "publishedAt": "2026-10-05T17:58:39Z"
+  "versionCode": 21,
+  "versionName": "1.0.0-rc11",
+  "apkUrl": "https://github.com/suzukits1995/ShiftFlow-Releases/releases/download/v1.0.0-rc11-21/ShiftFlow-21.apk",
+  "sha256": "edde64af9a19be13dd7c72018bbc0e858eb9dc0c0218b32410396e044d54e0c2",
+  "releaseNotes": "RC11: Βελτιώθηκε το Widget του ShiftFlow με compact σχεδίαση 2×1 και προσαρμοζόμενη εμφάνιση. Στο μικρό μέγεθος εμφανίζονται οι βασικές πληροφορίες Σήμερα/Αύριο και όσο μεγαλώνει το widget εμφανίζονται περισσότερες λεπτομέρειες.",
+  "publishedAt": "2026-10-05T19:15:05Z"
 }
