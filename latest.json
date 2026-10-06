@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "1.0.0-rc11",
-  "apkUrl": "https://github.com/suzukits1995/ShiftFlow-Releases/releases/download/v1.0.0-rc11-21/ShiftFlow-21.apk",
-  "sha256": "edde64af9a19be13dd7c72018bbc0e858eb9dc0c0218b32410396e044d54e0c2",
-  "releaseNotes": "RC11: Βελτιώθηκε το Widget του ShiftFlow με compact σχεδίαση 2×1 και προσαρμοζόμενη εμφάνιση. Στο μικρό μέγεθος εμφανίζονται οι βασικές πληροφορίες Σήμερα/Αύριο και όσο μεγαλώνει το widget εμφανίζονται περισσότερες λεπτομέρειες.",
-  "publishedAt": "2026-10-05T19:15:05Z"
+  "versionCode": 22,
+  "versionName": "1.0.0-rc12",
+  "apkUrl": "https://github.com/suzukits1995/ShiftFlow-Releases/releases/download/v1.0.0-rc12-22/ShiftFlow-22.apk",
+  "sha256": "3603ac769867784e798db86c92959322d9e4c873c2ae1a65c32d121c0f042dbe",
+  "releaseNotes": "RC12: Ολοκληρώθηκε το Widget v1 με βελτιώσεις στη responsive εμφάνιση. Διορθώθηκε η διάταξη σε μεγάλα/ψηλά μεγέθη ώστε οι πληροφορίες Σήμερα και Αύριο να παραμένουν συγκεντρωμένες χωρίς υπερβολικό κενό. Προστέθηκαν επίσης έλεγχοι για ανεξάρτητα χρώματα ανά ημέρα και σωστή εμφάνιση ωρών μόνο στις εργάσιμες ημέρες.",
+  "publishedAt": "2026-10-06T01:45:33Z"
 }
